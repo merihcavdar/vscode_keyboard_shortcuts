@@ -1,0 +1,15 @@
+F11                 Toggle fullscreen
+Shift + Alt + 0     Toggle editor layout (horizontal/vertical)
+Ctrl + = / -        Zoom in/out
+Ctrl + B            Toggle Sidebar
+Ctrl + Shift + E    Show Explorer / Toggle focus
+Ctrl + Shift + F    Show Search
+Ctrl + SHift + G    Show Source Code
+Ctrl + Shift + D    Show Debug
+Ctrl + Shift + X    Show Extensions
+Ctrl + Shift + H    Replace in files
+Ctrl + Shift + J    Toggle search details
+Ctrl + Shift + U    Show Output panel
+Ctrl + Shift + V    Open Markdown preview
+Ctrl + K V          Open Markdown preview to the side
+Ctrl + K Z          Zen Mode (Esc Esc to exit)

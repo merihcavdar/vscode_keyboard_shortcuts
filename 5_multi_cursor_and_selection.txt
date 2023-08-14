@@ -1,0 +1,15 @@
+Alt + Click               Insert cursor
+Ctrl + Alt + up/down      Insert cursor above/below
+Ctrl + U                  Undo last cursor operation
+Shift + Alt + I           Insert cursor at end of each line selected
+Ctrl + L                  Select current line
+Ctrl + Shift + L          Select all occurences of current selection
+Ctrl + F2                 Select all occurences of current word
+Shift + Alt + right       Expand selection
+Shift + Alt + left        Shrink selection
+Shift + Alt +             Column (box) selection
+(drag mouse)
+Ctrl + Shift + Alt        Column (box) selection
++ (arrow key)
+Ctrl + Shift + Alt        Column (box) selection
++ PgUp / PgDown
